@@ -1,5 +1,5 @@
-hola esta es mi primer archivo para git
+hola esta es mi segundo archivo para git
 
 estoy en casita
 
-esto es para aprender 
+esto es para aprender un poco mas git
