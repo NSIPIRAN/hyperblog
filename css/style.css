@@ -7,17 +7,25 @@ body{
 }
 
 #container{
-    padding: 2em;
+    padding: 0em;
     margin-top: 10px;
     margin-left: 200px;
     margin-right: 200px;
-    border: 2px solid;
-    border-color: blueviolet;
+    border:  1px solid;
+    border-color: brown;
     text-align: center;
+    border-radius: 1.3em;
+    
 
 }
 #cab{
     text-decoration: cornflowerblue;
     text-align: left;
     font-style: italic;
+    background-color: brown;
+    color: cornsilk;
+    padding: 1em;
+    font-size: larger;
+    border-radius: 1em;
+    
 }
