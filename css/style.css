@@ -5,3 +5,19 @@ body{
     
     text-shadow: coral;
 }
+
+#container{
+    padding: 2em;
+    margin-top: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border: 2px solid;
+    border-color: blueviolet;
+    text-align: center;
+
+}
+#cab{
+    text-decoration: cornflowerblue;
+    text-align: left;
+    font-style: italic;
+}
