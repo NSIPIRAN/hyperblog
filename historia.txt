@@ -1,0 +1,5 @@
+hola esta es mi primer archivo para git
+
+estoy en casita
+
+esto es para aprender 
