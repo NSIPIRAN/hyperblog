@@ -1,7 +1,7 @@
 ### Aprendiendo Git  🏳️‍🌈 
 
 
-- Este es el desarrollo de un curso de git
+ Este es el desarrollo de un curso de git
 > El curso de git es muy interesante, en este proyecto encontrarás puros errores, pero no te desanimes, nah, solo es para aprender... -Nath
 
 
