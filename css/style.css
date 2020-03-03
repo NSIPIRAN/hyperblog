@@ -38,3 +38,15 @@ body{
     vertical-align: middle;
     
 }
+footer{
+    background:  brown;
+    text-align: center;
+    padding: 1em;
+    color: white;
+    font-style: oblique;
+    border-radius: 1.3em;
+    border-color: brown;
+    text-shadow: yellowgreen;
+    font-weight: bold;
+
+}
